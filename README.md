@@ -1,6 +1,6 @@
 # cmake_network_lib_tests
 
-# Lisnce: MIT
+# License: MIT
 
 # Information:
   Keep it simple for testing.
